@@ -1,5 +1,5 @@
 /* versi gampa bumi*/
-/* nav {
+nav {
   background-color: #333;
   color: #fff;
   padding: 10px;
@@ -224,7 +224,7 @@ img:hover {
   100% {
     background: #f33d3d;
   }
-} */
+}
 
 /* versi tsunami*/
 /* nav {
@@ -455,7 +455,8 @@ img:hover {
   }
 } */
 
-nav {
+/* v3 */
+/* nav {
   background-color: #333;
   color: #fff;
   padding: 10px;
@@ -680,4 +681,4 @@ img:hover {
   100% {
     background: #f33d3d;
   }
-}
+} */
